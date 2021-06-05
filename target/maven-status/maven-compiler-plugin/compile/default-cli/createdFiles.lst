@@ -1,0 +1,5 @@
+cn\pianzhi\annotation\AutoServiceTest.class
+cn\pianzhi\annotation\HelloWorldEntity.class
+cn\pianzhi\annotation\MyAnnotation.class
+cn\pianzhi\annotation\Iprocessor.class
+META-INF\services\javax.annotation.processing.Processor
